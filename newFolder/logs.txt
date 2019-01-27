@@ -1,7 +1,7 @@
  Том в устройстве C имеет метку Локальный диск
  Серийный номер тома: 0C7D-39B4
 
-Other text line to test
+Other text line to test with with
 
 27.01.2019  11:15    <DIR>          .
 27.01.2019  11:15    <DIR>          ..
